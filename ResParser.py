@@ -6,6 +6,9 @@ import spacy
 import fitz  # PyMuPDF
 import dateparser
 
+import nltk
+nltk.download('punkt')  # Downloads missing NLTK tokenizer
+
 # Load spaCy NER model
 nlp = spacy.load("en_core_web_sm")
 
