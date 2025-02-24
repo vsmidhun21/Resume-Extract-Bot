@@ -1,9 +1,13 @@
 streamlit
 pytesseract
 pdfplumber
+PyMuPDF
 docx2txt
 spacy
 phonenumbers
 nltk
 email-validator
 openpyxl
+regex
+dateparser
+python-docx
