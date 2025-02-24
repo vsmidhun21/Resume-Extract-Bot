@@ -1,0 +1,9 @@
+streamlit
+pytesseract
+pdfplumber
+docx2txt
+spacy
+phonenumbers
+nltk
+email-validator
+openpyxl
